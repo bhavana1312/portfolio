@@ -1,0 +1,24 @@
+.education-section {
+  background-color: #2f2f2f;
+}
+
+.education-content {
+  max-width: 1000px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.education-item {
+  margin-bottom: 30px;
+  padding: 20px;
+  background-color: #1f1f1f;
+  border-radius: 10px;
+}
+
+.education-item h3 {
+  color: #00bfff;
+}
+
+.education-item p {
+  font-size: 1.1em;
+}
